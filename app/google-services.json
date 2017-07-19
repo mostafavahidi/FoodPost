@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "371522724364",
+    "firebase_url": "https://foodpost-1498201092942.firebaseio.com",
+    "project_id": "foodpost-1498201092942",
+    "storage_bucket": "foodpost-1498201092942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371522724364:android:9745bd6bd41c6c46",
+        "android_client_info": {
+          "package_name": "com.mostafavahidi.foodpost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371522724364-b49h4lmj8aqoa965d6n0e4o90bnbvo51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBue8xw-Iea-ZmM43C7HL_Xqbno6C-vSag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

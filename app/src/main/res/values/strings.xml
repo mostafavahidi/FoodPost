@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FoodPost</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="google_android_map_api_key"> AIzaSyDJP7YF-DZWR9aAv8ZPuHLkhP4471SllCg </string>
+    <string name="action_add">Post</string>
+    <string name="action_search">Search</string>
+    <string name="action_setting">Setting</string>
+    <string name="action_home">Home</string>
+    <string name="photo">Add a photo</string>
+    <string name="photoDesc">Put a picture of your food item in this area.</string>
+    <string name="str_all_selected">All categories</string>
+    <string-array name="food_titles">
+        <item>All</item>
+        <item>Sandwich</item>
+        <item>Snack</item>
+        <item>Beverage</item>
+        <item>Fruit</item>
+        <item>Chicken</item>
+        <item>Sea Food</item>
+        <item>Dessert</item>
+        <item>Vegetarian</item>
+        <item>Nuts</item>
+        <item>Beef</item>
+        <item>Grain</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
+

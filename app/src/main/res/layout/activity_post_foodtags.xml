@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <CheckBox android:id="@+id/allCategories"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="All Categories" />
+
+    <CheckBox android:id="@+id/sandwich"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sandwich"/>
+
+    <CheckBox android:id="@+id/snack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Snack"/>
+
+    <CheckBox android:id="@+id/beverage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Beverage"/>
+
+    <CheckBox android:id="@+id/fruit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fruit"/>
+
+    <CheckBox android:id="@+id/chicken"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chicken"/>
+
+    <CheckBox android:id="@+id/seaFood"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sea Food"/>
+
+    <CheckBox android:id="@+id/dessert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dessert"/>
+
+    <CheckBox android:id="@+id/vegetarian"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vegetarian"/>
+
+    <CheckBox android:id="@+id/nuts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nuts"/>
+
+    <CheckBox android:id="@+id/beef"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Beef"/>
+
+    <CheckBox android:id="@+id/grain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Grain"/>
+
+    <CheckBox android:id="@+id/other"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Other"/>
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name ="colorPrimary">#ffffff</color>
+    <color name ="colorAccent">#f45000</color>
+    <color name ="overflow_background">#b71c1c</color>
+    <color name="colorPrimaryLight">#f05545</color>
+    <color name="colorPrimaryDark">#b71c1c</color>
+    <color name="colorPrimaryReallyDark">#7f0000</color>
+
+    <array name="colors">
+        <item name="all categories" type="color">#754821</item>
+        <item name="sandwich" type="color">#827f93</item>
+        <item name="snack" type="color">#c467f4</item>
+        <item name="beverage" type="color">#3b9aee</item>
+        <item name="fruit" type="color">#9bc53d</item>
+        <item name="chicken" type="color">#f4a261</item>
+        <item name="sea food" type="color">#1ed2bb</item>
+        <item name="dessert" type="color">#f45000</item>
+        <item name="vegetarian" type="color">#20bf55</item>
+        <item name="nuts" type="color">#9f9fed</item>
+        <item name="beef" type="color">#fc6177</item>
+        <item name="grain" type="color">#bcbcbc</item>
+        <item name="other" type="color">#b71c1d</item>
+    </array>
+
+    <color name="divider">#b2b6c6</color>
+
+</resources>
